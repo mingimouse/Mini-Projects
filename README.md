@@ -6,10 +6,10 @@
 
 ## Contents
 
-- **[Week 01]** Caculator
-- **[Week 02]** To Do List
-- **[Week 03]** Digital Clock
-- **[Week 04]** Calendar
+- **[Week 01]** Calculator
+- **[Week 02]** 
+- **[Week 03]** 
+- **[Week 04]** 
 
   
 
